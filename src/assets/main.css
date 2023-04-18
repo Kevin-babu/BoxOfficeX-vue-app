@@ -1,0 +1,10 @@
+@import './base.css';
+
+*{
+  box-sizing: border-box;
+  margin: none;
+  font-family: 'Figtree', sans-serif;}
+
+body ::-webkit-scrollbar{
+  width: 0;
+}
